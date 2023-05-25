@@ -1,0 +1,7 @@
+Q1 concept
+I first created a 2d character array to store the input and then find the “?” in each of arr[i]
+I initialized 2 integers -
+1. m (initially m=1 which becomes 9 if first element of arr[i] is ?)
+2. l(initially l=0, it counts the number of ? in arr[i] excluding the one that occurs as arr[i]’s first element)
+Then I used another integer arr k[] which gives me the total numbers possible wrt the ?
+If there is no ?, I have printed 1 if arr[i] does not start with zero otherwise it prints 0
