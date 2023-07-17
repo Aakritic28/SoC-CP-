@@ -1,0 +1,5 @@
+1.every node is either red or black
+2. root node is always black
+3. if a node is red then then its child nodes are always black
+4.all leaf nodes(nil) are always black
+5.if we move from one node to dependent leaves then the number of black nodes is always same
