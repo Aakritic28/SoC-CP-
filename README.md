@@ -16,7 +16,7 @@ Question solving from codeforces,cses problem set and leetcode<br>
   <li>Greedy Algorithm and its examples</li>
   <li>Dynamic Algorithm and its application through questions on Codeforces & cses problem set</li>
 </ul><br>
-<b>WEEK 4 learnins</b><br>
+<b>WEEK 4 learnings</b><br>
 <ul type='o'>
   <li>Binary Search Tree<ul><li>Definition and properties of BST</li>
   <li>Tree traversal in BST (Pre-order, In-order and Post-order)</li>
